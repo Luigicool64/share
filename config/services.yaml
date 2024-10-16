@@ -6,7 +6,7 @@
 parameters:
     login_throttle_max_attempts: 5
     login_throttle_delay: 300
-    
+
 services:
     # default configuration for services in *this* file
     _defaults:
